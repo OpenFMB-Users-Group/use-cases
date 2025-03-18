@@ -15,11 +15,11 @@ There is also 1 supplementary document referenced by all of the above use cases:
 
 * [Information Exchanged][5]
 
-[1]: https://gitlab.com/openfmb/use-cases/ops/blob/master/OpenFMBUseCases-DERCircuitSegmentManagement.pdf
-[2]: https://gitlab.com/openfmb/use-cases/ops/blob/master/OpenFMBUseCases-CircuitSegmentOptimization.pdf
-[3]: https://gitlab.com/openfmb/use-cases/ops/blob/master/OpenFMBUseCases-MicrogridUnscheduledIslanding.pdf
-[4]: https://gitlab.com/openfmb/use-cases/ops/blob/master/OpenFMBUseCases-MicrogridReconnection.pdf
-[5]: https://gitlab.com/openfmb/use-cases/ops/blob/master/OpenFMBUseCases-InformationExchanged.pdf
+[1]: https://github.com/OpenFMB-Users-Group/use-cases/blob/6177ce912466dd00608820d2ae3dc5b3c031f185/v1.0.0/OpenFMBUseCases-DERCircuitSegmentManagement.pdf
+[2]: https://github.com/OpenFMB-Users-Group/use-cases/blob/6177ce912466dd00608820d2ae3dc5b3c031f185/v1.0.0/OpenFMBUseCases-CircuitSegmentOptimization.pdf
+[3]: https://github.com/OpenFMB-Users-Group/use-cases/blob/6177ce912466dd00608820d2ae3dc5b3c031f185/v1.0.0/OpenFMBUseCases-MicrogridUnscheduledIslanding.pdf
+[4]: https://github.com/OpenFMB-Users-Group/use-cases/blob/6177ce912466dd00608820d2ae3dc5b3c031f185/v1.0.0/OpenFMBUseCases-MicrogridReconnection.pdf
+[5]: https://github.com/OpenFMB-Users-Group/use-cases/blob/6177ce912466dd00608820d2ae3dc5b3c031f185/v1.0.0/OpenFMBUseCases-InformationExchanged.pdf
 
 ## Short descriptions of the use cases
 
