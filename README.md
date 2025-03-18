@@ -12,8 +12,8 @@ There is also 1 supplementary document referenced by all of the above use cases:
 
 * [Information Exchanged][2]
 
-[1]: https://gitlab.com/openfmb/use-cases/ops/-/blob/v2.0.0/DERCircuitSegmentManagement.pdf
-[2]: https://gitlab.com/openfmb/use-cases/ops/-/blob/v2.0.0/OpenFMBUseCasesInformationExchanged.pdf
+[1]: https://github.com/OpenFMB-Users-Group/use-cases/blob/bbfca6d8de643417cda99cedf2d9c3765f18f25f/DERCircuitSegmentManagement.pdf
+[2]: https://github.com/OpenFMB-Users-Group/use-cases/blob/bbfca6d8de643417cda99cedf2d9c3765f18f25f/OpenFMBUseCaseInformationExchanged.pdf
 
 ## Short descriptions of the use cases
 
